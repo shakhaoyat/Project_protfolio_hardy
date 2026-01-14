@@ -292,3 +292,7 @@ form textarea {
       border-radius: 5px;
       color: #757575;
 }
+
+
+
+@media screen and (max-width: 570px) {}
